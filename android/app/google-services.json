@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628962006898",
+    "project_id": "rntodoapp-fbda6",
+    "storage_bucket": "rntodoapp-fbda6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628962006898:android:566f3dd3a22dc850f0afeb",
+        "android_client_info": {
+          "package_name": "com.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628962006898-0c24pfkb9smmmvhrdt18letjkh53qpoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh2iLg30VNJfAVTw1hbNOxNlZsvYtHZyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628962006898-0c24pfkb9smmmvhrdt18letjkh53qpoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
